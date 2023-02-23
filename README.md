@@ -1,5 +1,5 @@
 <h1>PowerToys Backups</h1>
-<p>This repository contains the backup file</p>
+<p>This repository contains the backup file for PowerToys</p>
 <br>
 <br>
 <p>Download and paste the file in this "C:\Users\[UserName]\Documents\PowerToys\Backup\settings_133216471207283050.ptb"</p>
