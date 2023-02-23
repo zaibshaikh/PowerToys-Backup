@@ -8,4 +8,4 @@
 <p>And on pressing "Windows Key + Shift + X" will open up the Screen Ruler</p>
 <br>
 <br>
-<p>Download the file using this <a href="/">Link</a></p>
+<p>Download the file using this <a href="https://github.com/zaibshaikh/PowerToys-Backup/raw/master/settings_133216471207283050.ptb">Link</a></p>
